@@ -1,0 +1,47 @@
+
+ul,
+
+h2,
+h3,
+h4,
+p,
+li {
+    padding: 5px 200px 5px 200px;
+    display: table;
+    margin: 0 auto; 
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  body {
+    padding: 10px 200px 10px 200px;
+    background-color: rgb(65, 65, 65);
+    color: rgb(223, 223, 223);
+  }
+
+  a{
+
+    display: block;    
+    width: auto;    
+    margin: auto;
+    text-align: center;
+    color: rgb(223, 223, 223);
+    }
+a:hover {
+    color: rgb(119, 119, 119);
+    }
+a:link {
+    text-decoration: none;
+    }
+a:visited {
+    color: rgb(119, 119, 119);
+}
